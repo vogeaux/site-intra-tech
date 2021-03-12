@@ -76,3 +76,9 @@ background-image: -ms-linear-gradient( 90deg, rgb(231,138,233) 0%, rgb(146,110,2
   line-height: 1.2!important;
   margin-bottom: 0px!important;
 }
+
+.best-features-area .features-shpae {
+  position: absolute;
+  left: 38px;
+  top: 200px!important;
+}
