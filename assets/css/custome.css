@@ -82,3 +82,7 @@ background-image: -ms-linear-gradient( 90deg, rgb(231,138,233) 0%, rgb(146,110,2
   left: 38px;
   top: 200px!important;
 }
+
+
+.arrondi2{
+border-radius: 50px!important;/*Identique à border-radius: 50px/50px*/}
